@@ -21,4 +21,6 @@ http://bit.do/RaspiReader
 
 3) Currently RaspiReader does not work well with dry fingers (a shortcoming of any optical fingerprint scanner). Several options are available to help with this. (i) one can place a very thin silicone pad over the prism or (ii) the user can moisten their finger by rubbing their forehead with the finger to be imaged.
 
+4) The 3D printer used by us to fabricate the case was the Stratasys Objet Connex350 using the material DM-8530-Gray60
+
 
