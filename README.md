@@ -5,6 +5,7 @@
 
 If you use RaspiReader in your research, please cite the following papers
 
+```
 @article{engelsma2018raspireader,
   title={Raspireader: Open source fingerprint reader},
   author={Engelsma, Joshua James and Cao, Kai and Jain, Anil K},
@@ -12,13 +13,13 @@ If you use RaspiReader in your research, please cite the following papers
   year={2018},
   publisher={IEEE}
 }
-
 @article{engelsma2018fingerprint,
-  title={Fingerprint Match in Box},
-  author={Engelsma, Joshua J and Cao, Kai and Jain, Anil K},
-  journal={arXiv preprint arXiv:1804.08659},
-  year={2018}
+    title={Fingerprint Match in Box},
+    author={Engelsma, Joshua J and Cao, Kai and Jain, Anil K},
+    journal={arXiv preprint arXiv:1804.08659},
+    year={2018}
 }
+```
 
 # Major Dependencies
 OpenCV
