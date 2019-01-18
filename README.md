@@ -1,6 +1,25 @@
 # RaspiReader
 3D models and code for building your own fingerprint reader
 
+# Affiliated Papers
+
+If you use RaspiReader in your research, please cite the following papers
+
+@article{engelsma2018raspireader,
+  title={Raspireader: Open source fingerprint reader},
+  author={Engelsma, Joshua James and Cao, Kai and Jain, Anil K},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  year={2018},
+  publisher={IEEE}
+}
+
+@article{engelsma2018fingerprint,
+  title={Fingerprint Match in Box},
+  author={Engelsma, Joshua J and Cao, Kai and Jain, Anil K},
+  journal={arXiv preprint arXiv:1804.08659},
+  year={2018}
+}
+
 # Major Dependencies
 OpenCV
 Numpy
