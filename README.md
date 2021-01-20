@@ -19,6 +19,21 @@ If you use RaspiReader in your research, please cite the following papers
     journal={arXiv preprint arXiv:1804.08659},
     year={2018}
 }
+
+@inproceedings{j2019infant,
+  title={Infant-prints: Fingerprints for reducing infant mortality},
+  author={J Engelsma, Joshua and Deb, Debayan and Jain, Anil and Bhatnagar, Anjoo and Sewak Sudhish, Prem},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops},
+  pages={67--74},
+  year={2019}
+}
+
+@article{engelsma2020infant,
+  title={Infant-ID: Fingerprints for Global Good},
+  author={Engelsma, Joshua J and Deb, Debayan and Cao, Kai and Bhatnagar, Anjoo and Sudhish, Prem S and Jain, Anil K},
+  journal={arXiv preprint arXiv:2010.03624},
+  year={2020}
+}
 ```
 
 # Major Dependencies
@@ -32,6 +47,8 @@ PyImageSearch 4 point transform - https://www.pyimagesearch.com/2014/08/25/4-poi
 # DIY Video Instructions
 
 http://bit.do/RaspiReader
+
+https://www.youtube.com/watch?v=f8tYbE9Cwd0
 
 # Note(s)
 
